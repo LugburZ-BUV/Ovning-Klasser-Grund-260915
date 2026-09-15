@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace Ovningar_09_15_convert_class
+namespace Ovningar_09_15_convert_class.Models
 {
     public class Person
     {
